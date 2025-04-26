@@ -1,4 +1,4 @@
-# Estimating the Term Structure of Interest Rates Under the Cox-Ingersoll-Ross Model Using the Kalman Filter
+# Fitting Cox-Ingersoll-Ross Model Using Kalman Filter
 
 This project focuses on estimating the term structure of interest rates using the **Cox-Ingersoll-Ross (CIR) model** and the **Kalman filter**.
 
